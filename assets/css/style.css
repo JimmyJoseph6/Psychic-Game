@@ -1,0 +1,22 @@
+body {
+    background: black;
+    color: white;
+}
+
+.panel-default>.panel-heading {
+    color: white;
+    background-color: black;
+    border-color: #ddd;
+    text-align: center
+}
+
+.row {
+    background: black
+}
+
+p1, #Wins, #Losses, #guessLeft, #guessedLetters {
+    background: black;
+    color: white;
+    text-align: center
+}
+
